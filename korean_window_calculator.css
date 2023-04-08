@@ -5,14 +5,12 @@
 }
 
 body {
-  background-image: url('korean_window.jpg');
+  background-image: url('https://cdn.crowdpic.net/detail-thumb/thumb_d_F1B88E3D0EC2CDF3A8690D2C9289A831.jpg');
   background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  font-family: 'Noto Sans KR', sans-serif;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
+
 
 .calculator {
   width: 200px;
